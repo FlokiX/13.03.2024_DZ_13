@@ -1,0 +1,14 @@
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\bin\Debug\net8.0\CreditCard.exe
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\bin\Debug\net8.0\CreditCard.deps.json
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\bin\Debug\net8.0\CreditCard.runtimeconfig.json
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\bin\Debug\net8.0\CreditCard.dll
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\bin\Debug\net8.0\CreditCard.pdb
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\CreditCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\CreditCard.AssemblyInfoInputs.cache
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\CreditCard.AssemblyInfo.cs
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\CreditCard.dll
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\refint\CreditCard.dll
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\CreditCard.pdb
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\CreditCard.genruntimeconfig.cache
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\CreditCard\obj\Debug\net8.0\ref\CreditCard.dll
